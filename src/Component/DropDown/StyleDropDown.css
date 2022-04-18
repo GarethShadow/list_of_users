@@ -1,0 +1,11 @@
+.drop-down__items-container {
+    position: absolute;
+}
+
+.drop-down__button {
+    cursor: pointer;
+}
+
+.drop-down__items {
+    cursor: pointer;
+}

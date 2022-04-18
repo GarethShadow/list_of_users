@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.full__container {
+    padding: 30px;
+}
+
+.user-list__title--container {
+    margin-bottom: 30px;
+}
+
+.users__info-title--items {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+    color: #121212;
+}
+
+.pagination__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
